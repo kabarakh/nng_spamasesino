@@ -1,5 +1,5 @@
 ================
-ngg_workingtitle
+nng_workingtitle
 ================
 
 This will be a TYPO3 extension providing some functions for spam protection,
